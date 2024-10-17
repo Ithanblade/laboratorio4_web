@@ -121,8 +121,8 @@ console.log();
 
 const peliculas2021 = ["Dune", "Cruella", "Black Widow"];
 
-peliculas2021.push("Medicamentos") //Agregar elemento al final
-peliculas2021.unshift("Adopciones") //Agregar elemento al inicio
+peliculas2021.push("Free Guy") //Agregar elemento al final
+peliculas2021.unshift("Red Notice") //Agregar elemento al inicio
 console.log(peliculas2021)
 
 peliculas2021.pop() //Elimina el último elemento
